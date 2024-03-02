@@ -1,6 +1,6 @@
 # Rammstein
 Are you ready to rock?
-Overview
+
 
 Welcome to the Rammstein Tribute Countdown, an immersive web experience that celebrates the iconic German Neue Deutsche Härte band, Rammstein. This project is a testament to the band's enduring legacy, featuring a dynamic countdown timer that culminates in a visually stunning "colorsplosion," while the anthemic track "Du Hast" plays, inviting users into the electrifying world of Rammstein.
 
